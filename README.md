@@ -1,2 +1,2 @@
 # broadcasting
-used for 
+used in
